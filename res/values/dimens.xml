@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="block_txtsize">32sp</dimen>
+    <dimen name="browser_colwidth">130dp</dimen>
+
+    <dimen name="block_subtxtsize">18sp</dimen>
+    <dimen name="dialog_hdr_txtsize">30sp</dimen>
+    <dimen name="display_content_txtsize">35sp</dimen>
+    <dimen name="display_header_txtsize">20sp</dimen>
+</resources>

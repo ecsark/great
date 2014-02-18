@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Associated</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">Add</string>
+
+    <string name="hintext_edit">futuristic</string>
+    <string name="dialog_positive">OK</string>
+    <string name="dialog_negative">Cancel</string>
+
+    <string name="dialog_hdr_title_new">New</string>
+    <string name="ctx_edit">Edit</string>
+    <string name="ctx_delete">Delete</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_multiselect">Select</string>
+    <string name="action_link_to">LinkTo</string>
+    <string name="action_link_from">LinkFrom</string>
+    <string name="action_exe">OK</string>
+    <string name="action_edit">Edit</string>
+
+</resources>
